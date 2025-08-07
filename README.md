@@ -35,7 +35,7 @@ Yasaman. (2025). *A Comprehensive Psychological, Ethical, and Sociocultural Anal
 
 ## 📥 Download
 
-[Full Article PDF](./Artificial Intelligence and Humanity.pdf)  <!-- Update the filename accordingly -->
+[Full Article PDF]([**./Artificial Intelligence and Humanity.pdf**](https://github.com/Ycmmn/AI-and-Humanity-Article/blob/main/Artificial%20Intelligence%20and%20Humanity.pdf))  <!-- Update the filename accordingly -->
 
 ---
 
