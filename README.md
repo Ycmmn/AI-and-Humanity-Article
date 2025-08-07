@@ -1,7 +1,5 @@
 
 
-```markdown
-
 # 🧠 A Comprehensive Psychological, Ethical, and Sociocultural Analysis of Human-AI Interaction
 
 **Author:** Yasaman  
